@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 703,
-    "timeWeek": 703,
-    "timeMonth": 703,
-    "timeYear": 703,
+    "time": 725,
+    "timeDay": 725,
+    "timeWeek": 725,
+    "timeMonth": 725,
+    "timeYear": 725,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://realtime.flicchat.com",
     "icon": "https://favicons.githubusercontent.com/realtime.flicchat.com",
     "slug": "flic-chat-tempo-real",
-    "status": "down",
-    "uptime": "0.35%",
-    "uptimeDay": "0.35%",
-    "uptimeWeek": "0.35%",
-    "uptimeMonth": "0.35%",
-    "uptimeYear": "0.35%",
-    "time": 531,
-    "timeDay": 531,
-    "timeWeek": 531,
-    "timeMonth": 531,
-    "timeYear": 531,
+    "status": "up",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
+    "time": 520,
+    "timeDay": 520,
+    "timeWeek": 520,
+    "timeMonth": 520,
+    "timeYear": 520,
     "dailyMinutesDown": {
-      "2021-08-30": 8
+      "2021-08-30": 23
     }
   }
 ]
