@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status FlicChat
   introTitle: "**FlicChat** é uma plataforma de chat em tempo real."
-  introMessage: Situação atual do serviço:
+  introMessage: Acompanhe por aqui a situação atual do serviço
   navbar:
     - title: Status
       href: /
