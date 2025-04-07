@@ -4,10 +4,10 @@
     "url": "https://app.flicchat.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.flicchat.com.ico",
     "slug": "flic-chat-plataforma",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 653,
@@ -15,16 +15,18 @@
     "timeWeek": 627,
     "timeMonth": 624,
     "timeYear": 653,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 1
+    }
   },
   {
     "name": "FlicChat (Tempo Real)",
     "url": "https://realtime.flicchat.com",
     "icon": "https://icons.duckduckgo.com/ip3/realtime.flicchat.com.ico",
     "slug": "flic-chat-tempo-real",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 480,
     "timeMonth": 490,
     "timeYear": 493,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-07": 0
+    }
   }
 ]
