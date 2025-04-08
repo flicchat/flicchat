@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.flicchat.com.ico",
     "slug": "flic-chat-plataforma",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "84.98%",
+    "uptimeWeek": "97.85%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.96%",
     "time": 653,
-    "timeDay": 521,
-    "timeWeek": 627,
-    "timeMonth": 624,
+    "timeDay": 0,
+    "timeWeek": 633,
+    "timeMonth": 626,
     "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-04-07": 1
+      "2025-04-08": 77,
+      "2025-04-07": 139
     }
   },
   {
@@ -25,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/realtime.flicchat.com.ico",
     "slug": "flic-chat-tempo-real",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "85.02%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.96%",
     "time": 488,
-    "timeDay": 447,
-    "timeWeek": 480,
-    "timeMonth": 490,
+    "timeDay": 0,
+    "timeWeek": 484,
+    "timeMonth": 493,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-04-07": 0
+      "2025-04-08": 77,
+      "2025-04-07": 139
     }
   }
 ]
